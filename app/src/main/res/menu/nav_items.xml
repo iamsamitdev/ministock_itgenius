@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navhome"
+        android:title="@string/nav_home"
+        android:icon="@drawable/home_icon_selector"/>
+
+    <item android:id="@+id/navreport"
+        android:title="@string/nav_report"
+        android:icon="@drawable/report_icon_selector"/>
+
+    <item android:id="@+id/navnotificaton"
+        android:title="@string/nav_notification"
+        android:icon="@drawable/notification_icon_selector"/>
+
+    <item android:id="@+id/navaccount"
+        android:title="@string/nav_account"
+        android:icon="@drawable/account_icon_selector"/>
+
+</menu>
